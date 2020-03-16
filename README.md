@@ -1,7 +1,7 @@
 # openapi-audit-engine
 
 Make your API definition (Open API Standard) clean.  
-Needs the [OpenAPI audit engine API](https://github.com/RTabary/openapi-audit-engine-back) to work.
+<img width="1440" alt="Capture d’écran 2020-03-17 à 00 01 40" src="https://user-images.githubusercontent.com/12186878/76806883-e75b1f80-67e2-11ea-91bf-cc1d5a51e405.png">  
 
 Based on [stoplightio/spectral](https://github.com/stoplightio/spectral)
 
